@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⚡ GLOWING TYPING BANNER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=>>+We+are+GRASPINS+Group.;We+build+COOL+STUFF.+Everyone+is+WELCOME.+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=2986CC&center=true&vCenter=true&width=700&height=70&lines=>>+We+are+GRASPINS+Group.;We+build+COOL+STUFF.+Everyone+is+WELCOME.+⚡" alt="Typing SVG" />
 
 <br>
 
