@@ -16,7 +16,7 @@
 
 ## 🐾 Meet Magnus, the AI-Powered CEO (Chief Everything Officer)
 
-<img src="https://i.imgur.com/YjR3yv1.png" width="280" alt="Magnus the Beagle CEO" style="border-radius:50%; border: 4px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;">
+<img src="https://github.com/graspins/graspins/raw/main/magnus_coder_gify.gif" width="280" alt="Magnus the Beagle CEO" style="border-radius:50%; border: 4px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;">
 
 *Magnus is a real-life Beagle upgraded with experimental AI super-intelligence. Whether it's overseeing repository architecture, sniffing out memory leaks, or rewriting production code with a single bark, he handles it all. (He accepts payments exclusively in treats).*
 
