@@ -5,8 +5,8 @@
 
 <br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges)
-[![Profile Views](https://komarev.com/ghpvc/?username=graspins&color=ff007f&style=flat-square&label=VISITORS)](https://github.com/graspins)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-2986CC?style=flat-square)](https://github.com/graspins)
+[![Profile Views](https://komarev.com/ghpvc/?username=graspins&style=flat-square&color=2986CC&label=VISITORS)](https://github.com/graspins)
 
 </div>
 
